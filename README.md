@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요! BE 개발자 진병욱입니다! 👋
 
 ![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot) ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql) ![javascript](https://www.codenary.co.kr/widget/github-techstack/api?name=javascript) ![reactjs](https://www.codenary.co.kr/widget/github-techstack/api?name=reactjs) 
 
