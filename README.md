@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot) ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql) ![javascript](https://www.codenary.co.kr/widget/github-techstack/api?name=javascript) ![reactjs](https://www.codenary.co.kr/widget/github-techstack/api?name=reactjs) 
+
+[![Github](https://www.codenary.co.kr/widget/github/api?username=진병욱)](https://www.codenary.co.kr/user-profile/detail/진병욱?github_ride=true&utm_source=github)
+
 <!--
 **cutepassions/cutepassions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
