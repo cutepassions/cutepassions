@@ -1,5 +1,9 @@
 ## 안녕하세요! BE 개발자 진병욱입니다! 👋
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cutepassions)](https://velog.io/@cutepassions)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=cutepassions)](https://velog.io/@eungyeole)
+
 ![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot) ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql) ![javascript](https://www.codenary.co.kr/widget/github-techstack/api?name=javascript) ![reactjs](https://www.codenary.co.kr/widget/github-techstack/api?name=reactjs) 
 
 [![Github](https://www.codenary.co.kr/widget/github/api?username=진병욱)](https://www.codenary.co.kr/user-profile/detail/진병욱?github_ride=true&utm_source=github)
