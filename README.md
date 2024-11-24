@@ -5,14 +5,17 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cutepassions)](https://velog.io/@cutepassions)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=cutepassions)](https://velog.io/@cutepassions)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=cutepassions)](https://velog.io/@cutepassions) 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cutepassions&show_icons=true&locale=en" alt="cutepassions" /> 
+
 
 
 
 
 <!--
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cutepassions&show_icons=true&locale=en" alt="cutepassions" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cutepassions&" alt="cutepassions" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cutepassions&" alt="cutepassions" />
 
 [![Github](https://www.codenary.co.kr/widget/github/api?username=진병욱)](https://www.codenary.co.kr/user-profile/detail/진병욱?github_ride=true&utm_source=github)
 
