@@ -7,13 +7,22 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=cutepassions)](https://velog.io/@cutepassions) 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cutepassions&show_icons=true&locale=en" alt="cutepassions" /> 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/cutepassions?pet-id=651784330148052334"
+    width="600"
+    height="120"
+  />
+</a>
 
 
 
 
+
+  
 
 <!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cutepassions&show_icons=true&locale=en" alt="cutepassions" /> 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cutepassions&" alt="cutepassions" />
 
