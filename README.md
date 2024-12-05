@@ -1,12 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=Byeonguk's%20Github&section=header&desc=Back-end%20Engineer&reversal=false&strokeWidth=0&fontSize=50&descAlign=66&descAlignY=90)
 
-<!--h2 align="left">Hi 👋! My name is Byeonguk Jin and I'm a Back-end Engineer</h2-->
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcutepassions&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cutepassions)](https://velog.io/@cutepassions)
+
+</div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cutepassions&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cutepassions&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  
 </div>
 
 ## Back-end
@@ -56,6 +63,7 @@
 
 <!-- 
 <img src="https://raw.githubusercontent.com/cutepassions/cutepassions/output/snake.svg" alt="Snake animation" />
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=cutepassions)](https://velog.io/@cutepassions)
 -->
 
 
@@ -70,9 +78,7 @@
 
 ![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot) ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql) ![javascript](https://www.codenary.co.kr/widget/github-techstack/api?name=javascript) ![reactjs](https://www.codenary.co.kr/widget/github-techstack/api?name=reactjs) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cutepassions)](https://velog.io/@cutepassions)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=cutepassions)](https://velog.io/@cutepassions) 
 
 <a href="https://github.com/devxb/gitanimals">
   <img
