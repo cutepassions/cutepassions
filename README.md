@@ -58,6 +58,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="gitlab logo"  />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
 </div>
 
