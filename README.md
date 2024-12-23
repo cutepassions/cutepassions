@@ -19,7 +19,7 @@
 ## projects
 프로젝트를 클릭하여 해당 깃허브로 이동할 수 있습니다!
 
-### [Lost in Frost]((https://github.com/cutepassions/Lost-in-Frost)) (2023.10.10 ~ 11.17)
+### [Lost in Frost](https://github.com/cutepassions/Lost-in-Frost) (2023.10.10 ~ 11.17)
 - 생존 게임 개발 프로젝트 (게임 & 웹)
 - 백엔드 및 CI/CD 100% 담당하여 개발 진행
 
