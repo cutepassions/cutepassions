@@ -16,6 +16,10 @@
   
 </div>
 
+## projects
+
+<!-- 
+
 ## Back-end
 <div>
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
@@ -62,6 +66,7 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
 </div>
+-->
 
 <!-- 
 <img src="https://raw.githubusercontent.com/cutepassions/cutepassions/output/snake.svg" alt="Snake animation" />
