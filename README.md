@@ -17,6 +17,19 @@
 </div>
 
 ## projects
+프로젝트를 클릭하여 해당 깃허브로 이동할 수 있습니다!
+
+### [Lost in Frost]((https://github.com/cutepassions/Lost-in-Frost)) (2023.10.10 ~ 11.17)
+- 생존 게임 개발 프로젝트 (게임 & 웹)
+- 백엔드 및 CI/CD 100% 담당하여 개발 진행
+
+### [Uniqon](https://github.com/cutepassions/uniqon) (2023.08.21 ~ 10.06)
+- NFT 거래 플랫폼 개발 프로젝트
+- 백엔드(30%) 및 프론트엔드(15%) 담당하여 개발 진행
+
+### [끼니](https://github.com/cutepassions/kkini) (2023.07.03 ~ 08.18)
+- 요리 SNS 개발 프로젝트
+- 백엔드(30%) 및 프론트엔드(15%) 담당하여 개발 진행
 
 <!-- 
 
