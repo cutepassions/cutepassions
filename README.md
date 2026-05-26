@@ -26,7 +26,7 @@
 - 백엔드(30%) 및 프론트엔드(15%) 담당하여 개발 진행
 
 
-<img src="https://velog-github-badge.vercel.app/badge/cutepassions" />
+[<img src="https://velog-github-badge.vercel.app/badge/cutepassions" />](https://velog.io/@cutepassions/posts)
 
 
 <!-- [![Github](https://www.codenary.co.kr/widget/github/api?username=진병욱)](https://www.codenary.co.kr/user-profile/detail/진병욱?github_ride=true&utm_source=github) -->
