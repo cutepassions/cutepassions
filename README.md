@@ -25,6 +25,7 @@
 - 요리 SNS 개발 프로젝트
 - 백엔드(30%) 및 프론트엔드(15%) 담당하여 개발 진행
 
+## ➕ 더보기
 
 [<img src="https://velog-github-badge.vercel.app/badge/cutepassions" />](https://velog.io/@cutepassions/posts)
 
